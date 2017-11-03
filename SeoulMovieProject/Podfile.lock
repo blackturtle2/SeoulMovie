@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Kingfisher (4.1.0)
+  - PageControl (1.0.0)
+  - SwiftyJSON (3.1.4)
+  - Toaster (2.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - Kingfisher (~> 4.0)
+  - PageControl
+  - SwiftyJSON
+  - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Kingfisher: f14df8cbe576bf55f211fa589e9869bceb4ea87d
+  PageControl: 176a177acb20a7be9416b4dca8d771e83a5686e0
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Toaster: 8c3225dc465bef4aa57e147a288724576df8e439
+
+PODFILE CHECKSUM: 52f1b05c5954dc8cf1d96a32c0fc01f6d9ce46f5
+
+COCOAPODS: 1.3.1
