@@ -9,8 +9,11 @@
 [![Blog](https://img.shields.io/badge/blog-blackturtle2.net-EC5620.svg)](http://blackturtle2.net)
 
 
-<img src = "https://github.com/blackturtle2/SeoulMovie/blob/master/Screen%20Shot%2001%20-%20Main%20View.png?raw=true" width = 250 align = left >  <img src = "https://github.com/blackturtle2/SeoulMovie/blob/master/Screen%20Shot%2002%20-%20Detail%20View.png?raw=true" width = 250 align = left >
 
+&nbsp;<img width = 250 align = left >![test](/Screen%20Shot%2001%20-%20Main%20View.png "test title")
+</img>&nbsp;&nbsp;
+<img src = "https://github.com/blackturtle2/SeoulMovie/blob/master/Screen%20Shot%2002%20-%20Detail%20View.png?raw=true" width = 250 align = left >&nbsp;
+<br />
 
 ## About
  서울버스, 서울여행, 서울데이트팝, 서울OOO, ... 그래서 **서울영화** 를 만들다.
