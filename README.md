@@ -1,6 +1,5 @@
 # 서울영화 (SeoulMovie)
- `서울영화`는 서울의 무료 영화 상영 정보를 실제 영화관 앱처럼 정보를 제공하는 iOS Application 입니다. 
-  - `2017년 서울시 앱공모전 출품작 (서울시)`
+ 서울시 무료 영화 상영 정보를 실제 영화관 앱처럼 정보를 제공하는 iOS Application  - `2017년 서울시 앱공모전 출품작 (서울시)`
 
 [![Swift](https://img.shields.io/badge/Swift-compatible-E77335.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/platform-iOS_9.0+-lightgrey.svg)](https://github.com/blackturtle2/SeoulMovie)
